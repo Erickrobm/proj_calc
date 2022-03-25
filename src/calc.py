@@ -20,6 +20,6 @@ def get_fractions(frac_str):
 
 def suma(a, b):
     
-  sumando_a = get_fractions(a)
-  sumando_b = get_fractions(b)
-  return sumando_a + sumando_b
+    sumando_a = get_fractions(a)
+    sumando_b = get_fractions(b)
+    return sumando_a + sumando_b
